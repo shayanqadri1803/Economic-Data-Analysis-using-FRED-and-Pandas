@@ -1,3 +1,3 @@
-#Economic Data Analysis with FRED and pandas
+# Economic Data Analysis with FRED and pandas
 
 This project focuses on analyzing economic data from the U.S. using data retrieved from the Federal Reserve Economic Data (FRED) API. It searches for and extracts data on key economic indicators such as the S&P 500 index, unemployment rates by state, and labor force participation rates. The data is then processed and visualized to provide insights into economic trends. The project also includes techniques to align and compare data from different sources, allowing for a comprehensive analysis of unemployment and participation rates across various states during specific time periods.
