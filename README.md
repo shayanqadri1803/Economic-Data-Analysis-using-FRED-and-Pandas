@@ -19,6 +19,3 @@ Similar to the unemployment data, the code retrieves and analyzes the labor forc
 
 #### **Comparison of Unemployment and Participation Rates**
 The final section of the code involves comparing unemployment rates with labor force participation rates for specific states, such as New York, over a defined time period. This comparison is visualized using a dual-axis plot, where unemployment rates are plotted on one axis and participation rates on the other. This allows for a nuanced understanding of the relationship between these two economic indicators.
-
-#### **Conclusion**
-Overall, the code provides a detailed and methodical approach to analyzing economic data from the FRED API. It demonstrates how to retrieve, process, and visualize data on critical economic indicators, offering valuable insights into state-level economic conditions in the U.S. The use of interactive and dynamic plots enhances the analytical depth, making the findings more accessible and engaging.
